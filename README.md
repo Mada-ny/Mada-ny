@@ -15,11 +15,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mada-ny&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-<div style="text-align: center;">
-  ![](https://github-contributor-stats.vercel.app/api?username=Mada-ny&limit=5&theme=nord&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Mada-ny&limit=5&theme=nord&combine_all_yearly_contributions=true)
   
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
 [![](https://visitcount.itsvg.in/api?id=Mada-ny&icon=2&color=5)](https://visitcount.itsvg.in)
 
